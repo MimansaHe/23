@@ -99,6 +99,6 @@ function keyPressed() {
 	}
 
 	if (keyCode === DOWN_ARROW) {
-		Body.setStatic(packageBody , false); 
+		Body.setStatic(packageBody> , false); 
 	}
 }
